@@ -1,0 +1,104 @@
+{
+  "matches": [
+    {
+      "date": "2024-03-01",
+      "teams": ["Team A", "Team B"],
+      "location": "Home",
+      "result": "Win",
+      "score": {
+        "Team A": 3,
+        "Team B": 1
+      }
+    },
+    {
+      "date": "2024-03-05",
+      "teams": ["Team C", "Team D"],
+      "location": "Away",
+      "result": "Loss",
+      "score": {
+        "Team C": 1,
+        "Team D": 2
+      }
+    },
+    {
+      "date": "2024-03-10",
+      "teams": ["Team A", "Team E"],
+      "location": "Home",
+      "result": "Draw",
+      "score": {
+        "Team A": 2,
+        "Team E": 2
+      }
+    },
+    {
+      "date": "2024-03-15",
+      "teams": ["Team B", "Team C"],
+      "location": "Away",
+      "result": "Win",
+      "score": {
+        "Team B": 2,
+        "Team C": 0
+      }
+    },
+    {
+      "date": "2024-03-20",
+      "teams": ["Team D", "Team E"],
+      "location": "Home",
+      "result": "Win",
+      "score": {
+        "Team D": 4,
+        "Team E": 2
+      }
+    },
+    {
+      "date": "2024-03-25",
+      "teams": ["Team A", "Team C"],
+      "location": "Away",
+      "result": "Win",
+      "score": {
+        "Team A": 3,
+        "Team C": 1
+      }
+    },
+    {
+      "date": "2024-03-30",
+      "teams": ["Team B", "Team D"],
+      "location": "Home",
+      "result": "Draw",
+      "score": {
+        "Team B": 1,
+        "Team D": 1
+      }
+    },
+    {
+      "date": "2024-04-04",
+      "teams": ["Team C", "Team E"],
+      "location": "Away",
+      "result": "Loss",
+      "score": {
+        "Team C": 1,
+        "Team E": 2
+      }
+    },
+    {
+      "date": "2024-04-09",
+      "teams": ["Team A", "Team D"],
+      "location": "Home",
+      "result": "Win",
+      "score": {
+        "Team A": 2,
+        "Team D": 1
+      }
+    },
+    {
+      "date": "2024-04-14",
+      "teams": ["Team B", "Team E"],
+      "location": "Away",
+      "result": "Draw",
+      "score": {
+        "Team B": 2,
+        "Team E": 2
+      }
+    }
+  ]
+}
