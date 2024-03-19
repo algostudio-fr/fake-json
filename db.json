@@ -6,8 +6,8 @@
       "location": "Home",
       "result": "Win",
       "score": {
-        "Team A": 3,
-        "Team B": 1
+        "Team A": {"goals": 3, "scorers": [1, 2, 3]},
+        "Team B": {"goals": 1, "scorers": [7]}
       }
     },
     {
@@ -16,8 +16,8 @@
       "location": "Away",
       "result": "Loss",
       "score": {
-        "Team C": 1,
-        "Team D": 2
+        "Team C": {"goals": 1, "scorers": [11]},
+        "Team D": {"goals": 2, "scorers": [16, 17]}
       }
     },
     {
@@ -26,8 +26,8 @@
       "location": "Home",
       "result": "Draw",
       "score": {
-        "Team A": 2,
-        "Team E": 2
+        "Team A": {"goals": 2, "scorers": [4, 2]},
+        "Team E": {"goals": 2, "scorers": [21]}
       }
     },
     {
@@ -36,8 +36,8 @@
       "location": "Away",
       "result": "Win",
       "score": {
-        "Team B": 2,
-        "Team C": 0
+        "Team B": {"goals": 2, "scorers": [9, 6]},
+        "Team C": {"goals": 0, "scorers": []}
       }
     },
     {
@@ -46,8 +46,8 @@
       "location": "Home",
       "result": "Win",
       "score": {
-        "Team D": 4,
-        "Team E": 2
+        "Team D": {"goals": 4, "scorers": [17, 18, 19, 20]},
+        "Team E": {"goals": 2, "scorers": [22, 23]}
       }
     },
     {
@@ -56,8 +56,8 @@
       "location": "Away",
       "result": "Win",
       "score": {
-        "Team A": 3,
-        "Team C": 1
+        "Team A": {"goals": 3, "scorers": [3, 1, 5]},
+        "Team C": {"goals": 1, "scorers": [13]}
       }
     },
     {
@@ -66,8 +66,8 @@
       "location": "Home",
       "result": "Draw",
       "score": {
-        "Team B": 1,
-        "Team D": 1
+        "Team B": {"goals": 1, "scorers": [7]},
+        "Team D": {"goals": 1, "scorers": [17]}
       }
     },
     {
@@ -76,8 +76,8 @@
       "location": "Away",
       "result": "Loss",
       "score": {
-        "Team C": 1,
-        "Team E": 2
+        "Team C": {"goals": 1, "scorers": [14]},
+        "Team E": {"goals": 2, "scorers": [23, 21]}
       }
     },
     {
@@ -86,8 +86,8 @@
       "location": "Home",
       "result": "Win",
       "score": {
-        "Team A": 2,
-        "Team D": 1
+        "Team A": {"goals": 2, "scorers": [4, 4]},
+        "Team D": {"goals": 1, "scorers": [16]}
       }
     },
     {
@@ -96,8 +96,8 @@
       "location": "Away",
       "result": "Draw",
       "score": {
-        "Team B": 2,
-        "Team E": 2
+        "Team B": {"goals": 2, "scorers": [6, 8]},
+        "Team E": {"goals": 2, "scorers": [24, 25]}
       }
     }
   ]
